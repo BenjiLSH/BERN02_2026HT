@@ -1,1 +1,2 @@
-# BERN02_2026HT# BERN02_2026HT
+# BERN02_2026HT
+Repository for the exercises
